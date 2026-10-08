@@ -1,0 +1,6 @@
+{
+  "name": "Halqa Tracker",
+  "description": "Offline Quran class progress, recitation scoring, and discipline tracker for Halqa circles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

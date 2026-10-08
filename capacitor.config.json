@@ -1,0 +1,14 @@
+{
+  "appId": "com.halqatracker.quran",
+  "appName": "Halqa Tracker",
+  "webDir": "dist",
+  "bundledWebRuntime": false,
+  "server": {
+    "androidScheme": "https"
+  },
+  "android": {
+    "allowMixedContent": true,
+    "captureInput": true,
+    "webContentsDebuggingEnabled": false
+  }
+}
